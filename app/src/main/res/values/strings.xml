@@ -2,6 +2,10 @@
 <resources>
     <string name="app_name">BehealthyApp</string>
     <string name="btnNext">Next</string>
-    <string name="text">Bienvenue STIC L2 SR 2025/2026</string>
     <string name="btnRetour">Retour</string>
+    <string name="text">Bienvenue STIC L2 SR 2025/2026</string>
+    <string name="btn_catalogue">Voir le Catalogue</string>
+    <string name="name">Entrez votre nom</string>
+    <string name="souvenir">Se souvenir de moi</string>
+    <string name="connexion">Connexion</string>
 </resources>
